@@ -1,0 +1,111 @@
+/* Jumbotron */
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+  background-color: #C0C0C0;
+}
+
+/* Section */
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+#tentang {
+  background-color: #C0C0C0;
+}
+
+#pendidikan {
+  background-color: #C0C0C0;
+}
+
+#organisasi,
+#hobi {
+  background-color: #C0C0C0;
+}
+
+/* Card Images */
+#sd, #mts, #smk {
+  display: block;
+  margin: 20px auto;
+}
+
+#sd {
+  width: 220px;
+}
+
+#mts {
+  width: 150px;
+}
+
+#smk {
+  width: 202px;
+}
+
+/* Typography */
+.col h2 {
+  color: #000000;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+.card-text {
+  color: #000000;
+  font-size: 1rem;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #C0C0C0;
+}
+
+.navbar a {
+  color: #000000;
+}
+
+.navbar a:hover {
+  color: silver; 
+}
+
+/* Hobi Section */
+#hobi {
+  color: #000000;
+}
+
+#hobi:hover {
+  color: silver; 
+}
+
+/* Kontak Section */
+#kontak {
+  background-color: #C0C0C0;
+  color: #000000;
+}
+
+#kontak:hover {
+  color: #000000; 
+}
+
+/* Footer */
+footer {
+  background-color: #000000;
+  padding: 20px;
+}
+
+footer p a {
+  color: #000000;
+  text-decoration: none;
+}
+
+footer p a:hover {
+  text-decoration: underline;
+  color: #000000; 
+}
+
